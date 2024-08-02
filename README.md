@@ -24,9 +24,6 @@ I am an aspiring master of all trades who wants to ideate, innovate, and impleme
 
 ## Get In Touch
 
-
-- Instagram[@__sameer__yasin__](https://instagram.com/__sameer__yasin__?igshid=ZDdkNTZiNTM=)             
-- Email [Sameeryasin5002@gmail.com](mailto:Sameeryasin5002@gmail.com)
 - Discord : [SY#5595]
 - LinkedIn [Sameer Yasin](https://www.linkedin.com/in/sameer-yasin-ba79761b7/)
 ---
