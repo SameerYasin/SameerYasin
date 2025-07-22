@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer, a developer from India.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD5F7&width=435&lines=Programmer;Activist;Entrepreneur;Innovator;Robotics;Rizzlord)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD5F7&width=435&lines=Programmer;Activist;Entrepreneur;Innovator;Robotics;)](https://git.io/typing-svg)
 
 
 I am Sameer, a seventeen-year-old innovator, socio entrepreneur, and activist. I firmly believe in actively innovating and researching on global problems to bring about positive change. No matter what the opposition says or how tense the situations are, I always strive to do the right thing.
